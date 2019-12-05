@@ -1,4 +1,7 @@
-
+* {
+  padding: 0 auto;
+  box-sizing: border-box;
+}
 .App {
   padding: 20px 60px;
 }
